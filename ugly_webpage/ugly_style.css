@@ -1,0 +1,172 @@
+body {
+  background-color: grey;
+  background-image: url("poet.png");
+}
+
+img {
+  float: left;
+}
+
+#Stanza1 {
+  float: left;
+  width: 20%;
+  font-style: oblique;
+}
+
+#Stanza2 {
+  float: left;
+  width: 30%;
+  color: #97C050;
+}
+
+#Stanza3 {
+  float: right;
+  width: 45%;
+  color: #B9005B;
+}
+
+#Stanza4 {
+  float: left;
+  width: 60%;
+  color: white;
+}
+
+#Stanza5 {
+  float: left;
+  width: 10%;
+  color: #FFDE3F;
+}
+
+#Stanza6 {
+  float: left;
+  width: 40%;
+  color: #FF3F3F;
+}
+
+#Stanza7 {
+ float: left;
+ width: 70%;
+ color: #3C4567;
+}
+
+h4 {
+  text-align: center;
+  float: left;
+}
+
+#Stanza8 {
+  float: left;
+  width: 100%;
+}
+
+#Stanza9 {
+  font-family: Indie Flower;
+  float: left;
+}
+
+#Stanza10 {
+  font-family: cursive;
+  font-weight: bold;
+  float: left;
+  width: 70%;
+}
+
+#Stanza11 {
+  font-family: fantasy;
+  width: 80%;
+  float: right;
+  color: blue;
+}
+
+#Stanza12 {
+  font-family: Anton;
+  float: right;
+  width: 70%;
+}
+
+#Stanza13 {
+  font-family: Lobster;
+  float: left;
+  width: 40%;
+}
+
+#Stanza14 {
+  font-family: Righteous;
+  float: left;
+  width: 40%;
+}
+
+#Stanza15 {
+  font-family: Play;
+  float: right;
+  width: 20%;
+}
+
+#Stanza16 {
+  color: maroon;
+  float: left;
+  width: 90%;
+}
+
+#Stanza17 {
+  color: orange;
+  float: right;
+  width: 100%;
+}
+
+#Stanza18 {
+  letter-spacing: 10px;
+  float: left;
+}
+
+#Stanza19 {
+  text-decoration: underline;
+  float: right;
+}
+
+#Stanza20 {
+  padding: 20px;
+  border: 20px;
+  margin: 10px;
+  float: left;
+}
+
+#Stanza21 {
+  font-size: 700;
+  letter-spacing: 20px;
+  float: right;
+  width: 30%;
+}
+
+#Stanza22 {
+  font-family: Kaushan Script;
+  color: #DD77B5;
+  float: left;
+}
+
+#Stanza23 {
+  font-family: Black Ops One;
+  color: #5FEF41;
+  float: right;
+  width: 70%;
+}
+
+#Stanza24 {
+  height: 100px;
+  float: left;
+  width: 50%;
+  word-spacing: 50px;
+}
+
+#Stanza25 {
+  padding: 50px;
+  border: 30px;
+  margin: 20px;
+  font-family: Orbitron;
+  font-weight: 900;
+  float: left;
+}
+
+a {
+  float: left;
+}
