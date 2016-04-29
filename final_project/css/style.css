@@ -1,31 +1,30 @@
 #nav_left {
   text-align: center;
-  float: left;
-  width: 42%;
   border: 2px solid black;
+  font-size: 35px;
   padding-top: 10px;
   padding-bottom: 10px;
-  font-size: 35px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 img[src="images/the_muffin_man.png"] {
-  margin: 0;
-  position: absolute;
+  position: static;
 }
 
 #nav_right {
   text-align: center;
-  float: right;
-  width: 42%;
   border: 2px solid black;
+  font-size: 35px;
   padding-top: 10px;
   padding-bottom: 10px;
-  font-size: 35px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 nav a {
-  margin: 20px;
   display: inline-block;
+  margin: 20px;
 }
 
 a:link {
@@ -46,11 +45,13 @@ a:active {
 }
 
 #maincolumn {
-  float: left;
-  width: 75%;
   border: 2px solid black;
   margin: 5px;
   padding: 20px;
   font-size: 20px;
-  margin-top: 0;
+
+}
+
+#MOW {
+  font-size: 30px;
 }
