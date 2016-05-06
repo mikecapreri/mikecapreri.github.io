@@ -58,24 +58,45 @@ body {
 #MOW {
   border: 2px solid black;
   padding: 10px;
+  background-color: #FFFDD0;
 }
 
 #Strawberry {
   border: 2px solid black;
   padding: 10px;
+  background-color: #FFFDD0;
 }
 
 #Blueberry {
   border: 2px solid black;
   padding: 10px;
   margin-top: 10px;
+  background-color: #FFFDD0;
 }
 
 #About_full {
   border: 2px solid black;
-  padding: 10px;
+  padding: 20px;
+  margin-top: 10px;
+  background-color: #FFFDD0;
 }
 
 h2 {
   font-family: Limelight;
+}
+
+#Locations {
+  border: 2px solid black;
+  padding: 10px;
+  background-color: #FFFDD0;
+  margin-top: 10px;
+}
+
+ul {
+  margin-top: 25px;
+}
+
+li {
+  font-size: 20px;
+  padding-bottom: 10px;
 }
